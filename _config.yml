@@ -14,12 +14,12 @@ banner-title: # add banner title
 banner-desc: # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
-author-name: YangxiaoGuang# your name
-about-author: 我不是杨小光# about author
-email: xiaoguang@qq.com # your email
-phone: 110-119--120 # your pnone number
-website: https://xiaoguangyang.github.io/ # you website
+author-pic: face.jpg
+author-name: YangxiaoGuang
+about-author: 我不是杨小光
+email: xiaoguang@qq.com
+phone: 110-119--120
+website: https://xiaoguangyang.github.io/
 
 # Social link
 google_url:    # add url link
@@ -30,7 +30,7 @@ dribbble_url:  # add url link
 facebook_url:  # add url link
 
 # Disqus
-discus_identifier: mr-brown # add your discus identifier
+discus_identifier: 的看法是空
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
